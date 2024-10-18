@@ -118,7 +118,7 @@ body{
     font-family: var(--fonte-principal);
     text-align: center;
     align-items: center;
-    margin: 3em;
+    margin: 0.1em;
 }
 .rodape__texto{
     text-align: center;
