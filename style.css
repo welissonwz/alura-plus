@@ -110,7 +110,7 @@ body{
     display: flex;
     list-style-type: none;
     text-transform: var(--branco-principal);
-    padding: 2em;
+    padding: 1.5em;
 }
 .lista__link{
     font-size: 16px;
